@@ -1,0 +1,30 @@
+.main{
+    text-align: center;
+    margin: 0 35vw;
+}
+
+.boxList{
+    list-style-type: none;
+    position: relative;
+    max-width: 30vw;
+    border: 1px solid black;
+}
+.box{
+    text-align: left;
+}
+
+.btn{
+    position: absolute;
+    right: 0;
+    bottom: 0;
+    margin: 10px;
+}
+.cart{
+    margin-left: 80%;
+}
+.cart span{
+    background-color: yellow;
+    border-radius: 10px;
+    padding: 5px;
+    
+}
